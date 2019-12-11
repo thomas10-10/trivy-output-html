@@ -31,4 +31,4 @@ chmod +x trivy-html.sh
 and open output.html
 
 example here :
-http://htmlpreview.github.io/?https://github.com/thomas10-10/trivy-output-html/blob/master/example.html
+http://htmlpreview.github.io/?https://github.com/thomas10-10/trivy-output-html/blob/master/myexample.html
